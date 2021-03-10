@@ -1,2 +1,2 @@
 # MemeGenerator
-React App with TypeScript
+React App with JavaScript with the Imgflip meme generator app
